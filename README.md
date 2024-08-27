@@ -1,21 +1,21 @@
 # package_manager
- ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
+ ## Tabla de contenidos
+1. [Informacion general](#Informacion_general)
+2. [Tecnologias](#tecnologias)
+3. [Instalacion](#installation)
+4. [Colaboracion](#collaboration)
 5. [FAQs](#faqs)
-### General Info
+### Informacion general
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
+Actividad de introduccion a la clase web platforms 
+
+## Tecnologias
 ***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+Lista de Tecnologias usadas en el proyecto:
+* [Mocha](https://mochajs.org/): Version 10.7.3 
+* [Eslint](https://eslint.org/): Version 8.57.0
+* [Supervisor](https://www.npmjs.com/package/supervisor):
+* [Log4js](https://www.npmjs.com/package/log4js): Version 6.9.1
 ## Installation
 ***
 A little intro about the installation. 
